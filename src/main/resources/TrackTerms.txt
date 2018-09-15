@@ -1,0 +1,20 @@
+# This is the TrackTerms file used to set up terms and filters.
+# 
+# Please declare one term and optional filters per line.
+#
+# Valid Formats
+# =============
+# term1:filter1,filter2,fitler3
+# term2
+#
+# NB You cannot declare tweet terms containing the following characters ':' '#' or ','
+#    You can declare comment lines by prefix the line with a '#'
+#		e.g. # This line is a comment :)
+#    Blank lines are permitted for readability		
+
+OPEC
+OPEP
+Shale Gas
+Brent crude
+natgas
+oil:olbas,coconut,massage,palm,olive,cannabis,skin,nude,pussy,dressing,annoint,anoint,marinate,flour,onion,hair,painting,vegan,fry,fried,fries,sex,slippery,rope,wank,voyeur,chick,cook,stain,salad,tanning,sunscreen,ass,lotion,vegetable,trippy,stoned,groundnut,ghee,incense,samosa,chapati,cod liver, cod-liver,baby oil,masturbat,prayer oil,essential oil,holy oil,orangut,auto repair,get my oil changed,holy oil,oil print,oil paint,cooking oil,fish oil,castor oil
